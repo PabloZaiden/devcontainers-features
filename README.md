@@ -1,5 +1,7 @@
 # Features
 
+*Note: this repo is a fork of [guiyomh/features](https://github.com/guiyomh/features). While no new code was added or modified, the original repo is lagging behind on generating releases from updated code (no new releases since mid 2022). If at some point the original repo catches up, this fork may be archived.*
+
 This project **Features** is a set of reusable 'features'. Quickly add a tool/cli to a development container.
 
 *Features* are self-contained units of installation code and development container configuration. Features are designed to install atop a wide-range of base container images (this repo focuses on **debian based images**).
