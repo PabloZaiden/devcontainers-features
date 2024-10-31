@@ -7,7 +7,7 @@ Install Goreleaser, to release Go projects as fast and easily as possible!
 
 ```json
 "features": {
-    "ghcr.io/guiyomh/features/goreleaser:0": {}
+    "ghcr.io/PabloZaiden/devcontainers-features/goreleaser:0": {}
 }
 ```
 
@@ -30,4 +30,4 @@ Install Goreleaser, to release Go projects as fast and easily as possible!
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/guiyomh/features/blob/main/src/goreleaser/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/PabloZaiden/devcontainers-features/blob/main/src/goreleaser/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

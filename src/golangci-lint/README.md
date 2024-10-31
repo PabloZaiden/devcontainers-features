@@ -7,7 +7,7 @@ Install a fast Go linters
 
 ```json
 "features": {
-    "ghcr.io/guiyomh/features/golangci-lint:0": {}
+    "ghcr.io/PabloZaiden/devcontainers-features/golangci-lint:0": {}
 }
 ```
 
@@ -30,4 +30,4 @@ Install a fast Go linters
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/guiyomh/features/blob/main/src/golangci-lint/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/PabloZaiden/devcontainers-features/blob/main/src/golangci-lint/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
