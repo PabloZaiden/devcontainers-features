@@ -8,7 +8,6 @@ This project **Features** is a set of reusable 'features'. Quickly add a tool/cl
 
 **List of features:**
 
-* [fish](deprecated/fish/README.md): Install the shell fish (deprecated in favor of `ghcr.io/meaningful-ooo/devcontainer-features/fish`)
 * [vim](src/vim/README.md): Install vim editor
 * [golangci-lint](src/golangci-lint/README.md): Install a fast Go linters
 * [gotestsum](src/gotestsum/README.md): Install a pretty test runner
