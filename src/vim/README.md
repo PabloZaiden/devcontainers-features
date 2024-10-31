@@ -7,7 +7,7 @@ Install the vim editor
 
 ```json
 "features": {
-    "ghcr.io/guiyomh/features/vim:0": {}
+    "ghcr.io/PabloZaiden/devcontainers-features/vim:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Install the vim editor
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/guiyomh/features/blob/main/src/vim/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/PabloZaiden/devcontainers-features/blob/main/src/vim/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

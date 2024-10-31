@@ -7,7 +7,7 @@ Install a pretty test runner
 
 ```json
 "features": {
-    "ghcr.io/guiyomh/features/gotestsum:0": {}
+    "ghcr.io/PabloZaiden/devcontainers-features/gotestsum:0": {}
 }
 ```
 
@@ -30,4 +30,4 @@ Install a pretty test runner
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/guiyomh/features/blob/main/src/gotestsum/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/PabloZaiden/devcontainers-features/blob/main/src/gotestsum/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
