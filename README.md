@@ -26,7 +26,7 @@ See the relevant feature's README for supported options.
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/guiyomh/features/vim": {}
+        "ghcr.io/pablozaiden/devcontainer-features/vim": {}
     }
 }
 ```

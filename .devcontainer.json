@@ -20,8 +20,8 @@
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {},
         "ghcr.io/meaningful-ooo/devcontainer-features/fish": {},
-        "ghcr.io/guiyomh/features/vim": {},
-        "ghcr.io/guiyomh/features/just": {}
+        "ghcr.io/pablozaiden/devcontainer-features/vim": {},
+        "ghcr.io/pablozaiden/devcontainer-features/just": {}
     },
     "postCreateCommand": "npm install -g @devcontainers/cli && fish -c \"fisher install pure-fish/pure\""
 }
