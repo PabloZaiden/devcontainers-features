@@ -1,0 +1,24 @@
+{
+    "id": "bun",
+    "version": "1.0.0",
+    "name": "Bun",
+    "description": "Installs Bun, an all-in-one JavaScript runtime & toolkit designed for speed.",
+    "documentationURL": "https://github.com/PabloZaiden/devcontainers-features/tree/main/src/bun",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "latest",
+                "canary"
+            ],
+            "default": "latest",
+            "description": "Select the version of Bun to install. Use 'latest' for the most recent stable version, 'canary' for the latest development build, or specify a specific version number."
+        }
+    },
+    "containerEnv": {
+        "BUN_INSTALL": "/usr/local"
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
